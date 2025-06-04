@@ -4,7 +4,7 @@ Required Add-On: Install 'Motor Control Blockset' in MATLAB Add-On Explorer.
 
 Once that is installed, clone or download this repo to access the code. 
 ```
-git clone "https://https://github.com/AdrianMRodriguez/3-axis-traverse"
+git clone "https:github.com/AdrianMRodriguez/3-axis-traverse"
 cd 3-axis-traverse
 start main.m
 ```
