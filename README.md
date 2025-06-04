@@ -1,4 +1,7 @@
 # 3-axis-traverse
+
+Required Add-On: Install 'Motor Control Blockset' in MATLAB Add-On Explorer. 
+
 Move command explanation:
 
 F: Forward execution
