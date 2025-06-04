@@ -2,6 +2,9 @@
 
 Required Add-On: Install 'Motor Control Blockset' in MATLAB Add-On Explorer. 
 
+Once that is installed, clone or download this repo to access the code. 
+
+
 Move command explanation:
 
 F: Forward execution
