@@ -12,4 +12,4 @@ writeline(vxm, moveForward); %Sends forward command to vxm
 pause(3);
 writeline(vxm, modeBack);  %Sends backward command to vxm
 pause(3);
-delete(app.Connection); 
+delete(app.Connection); % Closes serial connection
